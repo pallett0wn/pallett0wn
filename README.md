@@ -1,4 +1,10 @@
-## Hi there 👋
+This is test! finally i know how to put pict! 
+
+<p align="center">
+  <img src="022b115c85151ace509548016a01edc1.jpg" alt="Son" width="500">
+</p>
+
+
 
 <!--
 **pallett0wn/pallett0wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
